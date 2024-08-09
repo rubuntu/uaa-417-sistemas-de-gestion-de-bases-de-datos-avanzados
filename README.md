@@ -1,2 +1,2 @@
 # uaa
-Cursos en Universidad Autónoma de Asunción (UAA)
+Cursos en la Universidad Autónoma de Asunción (UAA)
